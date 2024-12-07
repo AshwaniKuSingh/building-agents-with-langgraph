@@ -1,0 +1,12 @@
+langchain_community 
+langchain_anthropic 
+langchain_experimental 
+matplotlib 
+langgraph
+langchain
+matplotlib
+pip install openai
+%pip install -qU langchain-openai
+
+
+brew install tcl-tk
